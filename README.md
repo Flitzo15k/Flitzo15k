@@ -1,6 +1,13 @@
 <div align="center">
 
-<img src="assets/flitzo-banner.svg" width="100%" alt="Flitzø — Developer, Linux and Security" />
+<p align="center">
+  <img
+    src="./assets/flitzo-mago.gif"
+    alt="FLITZØ"
+    width="850"
+  />
+</p>
+
 
 <img src="assets/terminal-typing.gif" width="760" alt="Animated terminal typing: I create things. Sometimes I break them." />
 
